@@ -1,4 +1,4 @@
-# tailwindvue3
+# tailwindvue3 So far ( CDN medthod installed for tailwind ) :o
 
 ## Project setup
 ```
