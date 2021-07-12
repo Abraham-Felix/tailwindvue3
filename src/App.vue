@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld class="text-red-500" msg="Welcome to Your Vue.js App"/>
+  <img class=" transform sm:transform-gpu md:transform-none skew-y-12 p-6 m-10 max-w-sm mx-auto bg-white rounded-xl shadow-md flex items-center space-x-4" alt="Vue logo" src="./assets/logo.png">
+  <HelloWorld class="p-6 text-center shadow-md center flex-shrink-0 mx-auto"  msg="Vue3 + Tailwind"/>
 </template>
 
 <script>
